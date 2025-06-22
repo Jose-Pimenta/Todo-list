@@ -1,7 +1,7 @@
 # Todo List App
 
 Todo List App is a simple and intuitive task management application built with React and Vite. It allows users to add, complete, and remove tasks, keeping track of daily to-dos in a clean interface.  
-[![Vercel](https://img.shields.io/badge/Deploy-on_Vercel-000?style=flat&logo=vercel&logoColor=white)](https://weather-app.tiagopimenta.pt)
+[![Vercel](https://img.shields.io/badge/Deploy-on_Vercel-000?style=flat&logo=vercel&logoColor=white)](https://todo-list.tiagopimenta.pt)
 
 ## Features
 
