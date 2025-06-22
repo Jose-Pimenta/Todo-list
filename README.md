@@ -1,21 +1,22 @@
 # Todo List App
 
-Todo List App is a simple and intuitive task management application built with React and Vite. It allows users to add, complete, and remove tasks, keeping track of daily to-dos in a clean interface.
+Todo List App is a simple and intuitive task management application built with React and Vite. It allows users to add, complete, and remove tasks, keeping track of daily to-dos in a clean interface.  
+[![Vercel](https://img.shields.io/badge/Deploy-on_Vercel-000?style=flat&logo=vercel&logoColor=white)](https://weather-app.tiagopimenta.pt)
 
 ## Features
 
-- Add new tasks with a text input  
-- Mark tasks as completed or active  
-- Delete tasks individually  
-- Filter tasks by all, active, or completed (if implemented)  
-- Persist tasks in `localStorage` (optional)  
-- Responsive design for desktop and mobile  
+- Add new tasks with a text input
+- Mark tasks as completed or active
+- Delete tasks individually
+- Filter tasks by all, active, or completed (if implemented)
+- Persist tasks in `localStorage` (optional)
+- Responsive design for desktop and mobile
 
 ## Technologies
 
-- React (v19)  
-- Vite for development and build tooling  
-- CSS Modules (or plain CSS) for styling  
+- React (v19)
+- Vite for development and build tooling
+- CSS Modules (or plain CSS) for styling
 
 ## Project Structure
 
@@ -43,8 +44,8 @@ Todo-list/
 
 ### Prerequisites
 
-- Node.js (>=14.x)  
-- npm  
+- Node.js (>=14.x)
+- npm
 
 ### Installation
 
@@ -75,8 +76,8 @@ npm run preview
 
 ## Customization
 
-- Modify component styles in `src/index.css` or individual CSS modules.  
-- Extend functionality by adding task filtering, due dates, or priority levels.  
+- Modify component styles in `src/index.css` or individual CSS modules.
+- Extend functionality by adding task filtering, due dates, or priority levels.
 
 ## Contributing
 
