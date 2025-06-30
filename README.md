@@ -9,6 +9,7 @@ Todo List App is a simple and intuitive task management application built with R
 - Mark tasks as completed or active
 - Delete tasks individually
 - Persist tasks in `localStorage` (optional)
+- Responsive design for desktop and mobile
 
 ## Technologies
 
