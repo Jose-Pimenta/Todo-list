@@ -24,17 +24,18 @@ Todo-list/
 ├── public/
 │   └── index.html
 ├── src/
-│   ├── components/
-│   │   ├── TodoForm.jsx
-│   │   ├── TodoList.jsx
-│   │   └── TodoItem.jsx
 │   ├── App.jsx
+│   ├── NewTodoForm.jsx
+│   ├── TodoItem.jsx
+│   ├── TodoList.jsx
 │   ├── main.jsx
-│   └── index.css
+│   └── styles.css
 ├── .gitignore
 ├── eslint.config.js
+├── index.html
 ├── package.json
 ├── package-lock.json
+├── vercel.json
 ├── vite.config.js
 └── README.md
 ```
